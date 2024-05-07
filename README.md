@@ -25,16 +25,13 @@ SVM (Support vector machine) in sklearn library.
 7.Find the accuracy of the model.
 
 ## Program:
-
+```
 /*
-
 Program to implement the SVM For Spam Mail Detection.
-
 Developed by: Sriram G
-
 RegisterNumber:  212222230149
-
 */
+```
 ```
 import chardet
 file='spam.csv'
