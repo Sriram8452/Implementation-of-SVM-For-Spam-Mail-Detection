@@ -31,6 +31,7 @@ Program to implement the SVM For Spam Mail Detection.
 Developed by: Sriram G
 RegisterNumber:  212222230149
 */
+
 ```
 import pandas as pd
 data = pd.read_csv("spam.csv", encoding = 'Windows-1252')
@@ -60,8 +61,6 @@ con=confusion_matrix(y_test,y_pred)
 print(con)
 cl=classification_report(y_test,y_pred)
 print(cl)
-```
-
 ```
 
 
