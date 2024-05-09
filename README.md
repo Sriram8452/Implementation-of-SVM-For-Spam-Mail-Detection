@@ -31,6 +31,7 @@ Program to implement the SVM For Spam Mail Detection.
 Developed by: Sriram G
 RegisterNumber:  212222230149
 */
+```
 
 ```
 import pandas as pd
